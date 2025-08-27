@@ -1,4 +1,4 @@
-# MySQL-for-Data-Analytics
+# MySQL for Data Analytics
 Completing the final data analysis project using MySQL 
 
 1. Installation: https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_HowTo.html
